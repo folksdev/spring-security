@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql
+    restart: always
+    container_name: folksdev-db
+    environment:
+      MYSQL_ROOT_PASSWORD: f0lsdevroot
+      MYSQL_DATABASE: folksdev-db
+      MYSQL_USER: folksdev
+      MYSQL_PASSWORD: f0lsd3v
+    ports:
+      - '3306:3306'

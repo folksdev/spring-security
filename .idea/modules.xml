@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-auth/basic-auth.iml" filepath="$PROJECT_DIR$/basic-auth/basic-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/in-memory/in-memory.iml" filepath="$PROJECT_DIR$/in-memory/in-memory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt-token/jwt-token.iml" filepath="$PROJECT_DIR$/jwt-token/jwt-token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springsecurity.iml" filepath="$PROJECT_DIR$/.idea/springsecurity.iml" />
+    </modules>
+  </component>
+</project>
